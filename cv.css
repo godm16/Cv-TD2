@@ -1,0 +1,26 @@
+
+div{
+    background-color: #d0e4fe;
+}
+
+div.rouge{
+    background-color: red;
+}
+
+div.rouge h2 {
+    font-weight: bold;
+    font-size: 45;
+    color: blue;
+}
+
+body{
+    font-weight: bold;;
+}
+
+p{
+    background-color: green;
+}
+
+p.bleuet{
+    background-color: yellow;
+}
